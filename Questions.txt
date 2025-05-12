@@ -1,0 +1,111 @@
+difference between .properties and .yml file
+
+for the properties file we need to use like following:
+-spring.server.port=8080
+-spring.server.....=
+
+but for the yml file, we need to follow the tree structure:
+
+spring:
+	server:
+		port:8080
+		otherconfiguration:
+		
+		
+
+RECORD class in java 21:
+import MongoDB image from docker and use the same in the VS code
+
+@Slf4j annotation for the lambok
+
+TestContainers for unit testing with real dependencies
+@serviceConnection annotation in TESTING
+@LocalserverPort
+@beforeforeach
+
+What is flyway database migration; liquibase
+
+Creating a new database from the command line on the docker:
+
+USING MOCKITO vs WIREMOCK
+
+ @injectMocks, @MockBean
+ 
+ 
+creating a custom annotation in spring boot.
+
+what is @Target, @Retention, @Documented
+@Aspect
+@Around
+
+Repackaging of the jar
+
+@configuration,
+
+ObjectId in mongoDB, BSON Type
+
+@Profile    
+
+BYTE CODE in java.
+
+MongoDatabaseFactory, PlatformTransactionManager, MongoTransactionManager, SimpleMongoClientDatabaseFactory
+
+Replications in MongoDB.
+
+
+Clsuter is group of nodes:
+
+Replication in MongoDB.
+Sharding in MongoDB.
+
+
+@OnetoOne, @OnetoMany, @Manytoone and @manytomany in mongoDB  
+
+MEANING OF LINE:
+user.getRoles.toArray(new String[0])??? Is it creating a new array of size 0 or what?
+
+what is CSRF and session management and how CSRF token helps not to authenticated the users to hacks the endpoints.
+CRSF token is not hacked, as it might be a hidden field or embed on the form or use internally by the server to check for the hacked API's
+
+Code coverage in Spring boot.
+ 
+ 
+@BeforeEach, @BeforeAll
+@AfterEach, @AfterAll
+
+
+Code: 900902
+
+WebMvcConfigurer
+
+@PropertySource(value = "classpath:bank-config.yml", factory = YamlPropertySourceFactory.class)
+
+
+import org.xml.sax.EntityResolver;
+import org.xml.sax.InputSource;
+import org.xml.sax.SAXException;
+EntityResolver
+
+
+What is DTO objects and why we need that?
+Exceptions in case of springs.
+
+To open a file in git we mostly use the:
+nano "filename"
+
+
+@XmlElement(name = "PRIMACTNBR", required = true)
+@XmlSchemaType(name = "string")
+		
+
+SOAP API execution:
+		
+
+Cascading failure
+
+
+@autowired vs @equiredArgsConstructor
+
+Reverse proxy vs API gateway vs load balancer
+
+ObjectMapper class  
