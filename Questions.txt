@@ -109,3 +109,9 @@ Cascading failure
 Reverse proxy vs API gateway vs load balancer
 
 ObjectMapper class  
+
+OCI registry in containers, DILDA in docker....?
+
+
+WHAT IS THE SED COMMAND:
+ 
